@@ -14,8 +14,6 @@
 
 **Guide:** [Swapna Reddy]
 
-> Replace `[Supervisor Name]` with the actual guide/supervisor name from your project.
-
 ## Abstract
 
 Students often struggle to understand how their study habits, attendance, academic performance, and daily activities influence their overall results. The AI-Driven Digital Twin for Personalized Student Performance Prediction and Adaptive Learning is an innovative software platform designed to create a virtual representation of each student and continuously analyze their academic and behavioral data using Artificial Intelligence.
